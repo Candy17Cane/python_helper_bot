@@ -1,4 +1,4 @@
-![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
+![Tests](https://img.shields.io/github/actions/workflow/status/Candy17Cane/REPO/tests.yml?branch=main)
 ![Tests](https://img.shields.io/github/actions/workflow/status/Candy17Cane/python-helper-bot/tests.yml)
 ![Coverage](https://img.shields.io/badge/coverage-70%25-yellow)
 ![Repo Size](https://img.shields.io/github/repo-size/Candy17Cane/python-helper-bot)
