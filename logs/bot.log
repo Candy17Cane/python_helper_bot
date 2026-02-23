@@ -1,0 +1,25 @@
+2026-02-23 03:44:27 | INFO | aiogram.dispatcher | Start polling
+2026-02-23 03:44:27 | INFO | aiogram.dispatcher | Run polling for bot @helpedPythonBot id=7156512157 - 'helpedpython.bot'
+2026-02-23 03:45:02 | WARNING | aiogram.dispatcher | Received SIGINT signal
+2026-02-23 03:45:02 | INFO | aiogram.dispatcher | Polling stopped for bot @helpedPythonBot id=7156512157 - 'helpedpython.bot'
+2026-02-23 03:45:02 | INFO | aiogram.dispatcher | Polling stopped
+2026-02-23 03:45:17 | INFO | aiogram.dispatcher | Start polling
+2026-02-23 03:45:18 | INFO | aiogram.dispatcher | Run polling for bot @helpedPythonBot id=7156512157 - 'helpedpython.bot'
+2026-02-23 03:45:42 | INFO | bot.update | Update | user=5210548799 @sex_eyes
+2026-02-23 03:45:42 | INFO | bot.update | Handler | user=5210548799 | Update | 210.9ms
+2026-02-23 03:45:44 | INFO | bot.update | Update | user=5210548799 @sex_eyes
+2026-02-23 03:45:44 | INFO | bot.update | Handler | user=5210548799 | Update | 84.4ms
+2026-02-23 03:45:45 | INFO | bot.update | Update | user=5210548799 @sex_eyes
+2026-02-23 03:45:45 | INFO | bot.update | Handler | user=5210548799 | Update | 183.2ms
+2026-02-23 03:45:46 | INFO | bot.update | Update | user=5210548799 @sex_eyes
+2026-02-23 03:45:46 | INFO | bot.update | Handler | user=5210548799 | Update | 145.5ms
+2026-02-23 03:45:47 | INFO | bot.update | Update | user=5210548799 @sex_eyes
+2026-02-23 03:45:47 | INFO | bot.update | Handler | user=5210548799 | Update | 159.8ms
+2026-02-23 03:45:48 | INFO | bot.update | Update | user=5210548799 @sex_eyes
+2026-02-23 03:45:48 | INFO | bot.update | Handler | user=5210548799 | Update | 204.4ms
+2026-02-23 03:45:49 | INFO | bot.update | Update | user=5210548799 @sex_eyes
+2026-02-23 03:45:49 | INFO | bot.update | Handler | user=5210548799 | Update | 183.5ms
+2026-02-23 03:45:50 | INFO | bot.update | Update | user=5210548799 @sex_eyes
+2026-02-23 03:45:50 | INFO | bot.update | Handler | user=5210548799 | Update | 199.6ms
+2026-02-23 03:45:51 | INFO | bot.update | Update | user=5210548799 @sex_eyes
+2026-02-23 03:45:52 | INFO | bot.update | Handler | user=5210548799 | Update | 182.0ms

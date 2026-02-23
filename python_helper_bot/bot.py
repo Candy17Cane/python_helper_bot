@@ -21,7 +21,7 @@ from handlers import (
     )
 
 async def main():
-    setup_logging(settings.log_level, log_dir="logs")
+    setup_logging(log_dir="logs")
     settings = Settings.load()
     bot = Bot(token=settings.bot_token)
     dp = Dispatcher()
